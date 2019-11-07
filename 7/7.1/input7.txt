@@ -65,7 +65,7 @@
 ]]
 
 ["register"]
-["receive-stones"]
+["receive-stones", "B"]
 
 ["make-a-move", [
 [
